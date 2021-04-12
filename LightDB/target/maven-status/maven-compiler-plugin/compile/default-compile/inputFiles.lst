@@ -1,0 +1,13 @@
+/Users/gigi/Desktop/LightDB/src/main/java/ed/inf/adbs/lightdb/Tuple.java
+/Users/gigi/Desktop/LightDB/src/main/java/ed/inf/adbs/lightdb/ScanOperator.java
+/Users/gigi/Desktop/LightDB/src/main/java/ed/inf/adbs/lightdb/DuplicateEliminationOperator.java
+/Users/gigi/Desktop/LightDB/src/main/java/ed/inf/adbs/lightdb/ExpressionTester.java
+/Users/gigi/Desktop/LightDB/src/main/java/ed/inf/adbs/lightdb/LightDB.java
+/Users/gigi/Desktop/LightDB/src/main/java/ed/inf/adbs/lightdb/QueryPlan.java
+/Users/gigi/Desktop/LightDB/src/main/java/ed/inf/adbs/lightdb/JoinOperator.java
+/Users/gigi/Desktop/LightDB/src/main/java/ed/inf/adbs/lightdb/SelectOperator.java
+/Users/gigi/Desktop/LightDB/src/main/java/ed/inf/adbs/lightdb/Operator.java
+/Users/gigi/Desktop/LightDB/src/main/java/ed/inf/adbs/lightdb/ExpressionAnalyzer.java
+/Users/gigi/Desktop/LightDB/src/main/java/ed/inf/adbs/lightdb/ProjectOperator.java
+/Users/gigi/Desktop/LightDB/src/main/java/ed/inf/adbs/lightdb/SortOperator.java
+/Users/gigi/Desktop/LightDB/src/main/java/ed/inf/adbs/lightdb/DatabaseCatalog.java
